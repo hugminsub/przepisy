@@ -1,5 +1,5 @@
 # Schabowe
-;
+
 ## Składniki
 - schab
 - mąka
